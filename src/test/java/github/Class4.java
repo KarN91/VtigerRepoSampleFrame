@@ -6,6 +6,7 @@ public class Class4
 {
 	@Test
 	public void jenkins() {
+		System.out.println("-----Output of jenkin1----");
 		System.out.println("-----Output of jenkin----");
 	}
 	public void newjenkins() {
